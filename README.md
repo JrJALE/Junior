@@ -1,21 +1,30 @@
-# Junior
-<img src="jrimg.jpg" />
-<img src="https://organicthemes.com/demo/nonprofit/files/2015/05/computer-coffee-dark-300x200.jpg" alt="Photo" align="right" width="30%"/>
 
 # Junior Lopez
-> _Student_<br />
-> Payap University<br />
-> HIM Department<br />
+> Hospitality Industry Management  Payap University
 > Amphur Muang<br />
 > Chiang Mai 50000<br />
 > Thailand<br />
 
+# Sumary 
+> To succeed in a demanding position in a professional environment
+through applying my education, commitment to excellence, and
+willingness to take on new responsibilities to contribute to the company's
+success.
+
 # Education
 *  Bachelour in Business Administration
+  
 
 # Experience
 * Security guard for G4S from Jan 2018 to Dec 2020
 * Part-time office cleaner for GCA from Jun 2016 to Dec 2017
+
+# Volunteer Experience 
+* Community Service for Local Schools, Chiang Mai, Thailand
+- Conducted vision tests for children in different schools
+- Provided free glasses to children in need
+- Contributed to the improvement of children’s eye health and
+academic performanc
 
 
 # Interests
@@ -27,7 +36,14 @@
 * Time management
 * Service minded 
 * Quick learner
-* attent to details 
+* Problem solving
+* Confidence
+
+# Languages 
+* Spanish
+* English
+* Portuguese 
+* Thai
 
 # Contact Info
 * Phone number: +66 37934010
