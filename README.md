@@ -1,6 +1,7 @@
 
 # Junior Lopez
-> Hospitality Industry Management  Payap University
+> Hospitality Industry Management
+> Payap University
 > Amphur Muang<br />
 > Chiang Mai 50000<br />
 > Thailand<br />
@@ -47,5 +48,5 @@ academic performanc
 
 # Contact Info
 * Phone number: +66 37934010
-* email: juniorlopezjl@gmail.com
+* E-mail: juniorlopezjl@gmail.com
 
