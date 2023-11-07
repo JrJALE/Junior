@@ -1,8 +1,8 @@
 
 # Junior Lopez
 > Hospitality Industry Management
-> Payap University
-> Amphur Muang<br />
+Payap University
+Amphur Muang<br />
 > Chiang Mai 50000<br />
 > Thailand<br />
 
@@ -13,7 +13,7 @@ willingness to take on new responsibilities to contribute to the company's
 success.
 
 # Education
-*  Bachelour in Business Administration
+*  Bachelor of Business Administration
   
 
 # Experience
