@@ -6,7 +6,7 @@ Amphur Muang<br />
 > Chiang Mai 50000<br />
 > Thailand<br />
 
-# Sumary 
+# Summary 
 > To succeed in a demanding position in a professional environment
 through applying my education, commitment to excellence, and
 willingness to take on new responsibilities to contribute to the company's
@@ -32,7 +32,7 @@ academic performanc
 * Pasionate about the service in the hospitality industry 
 * Enjoy playing team sports 
 
-# Special skills
+# Special Skills
 * Very good at multitasking
 * Time management
 * Service minded 
